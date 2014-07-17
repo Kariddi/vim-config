@@ -4,3 +4,7 @@ syntax on
 filetype plugin indent on
 
 colorscheme guardian
+
+set expandtab
+set shiftwidth=2
+set softtabstop=2
